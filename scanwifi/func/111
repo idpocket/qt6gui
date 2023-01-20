@@ -1,0 +1,22 @@
+SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        H3C_1305                   -92  1       Y  -- WPA(PSK/TKIP,AES/TKIP) RSN(PSK/TKIP,AES/TKIP)
+                       CMCC-pWSi                   -92  8       Y  -- WPA(PSK/TKIP,AES/TKIP) RSN(PSK/TKIP,AES/TKIP)
+                         TP-1110                   -90  1,+1    Y  -- WPA(PSK/AES/AES) RSN(PSK/AES/AES)
+                            1308                   -85  149     Y  -- WPA(PSK/TKIP,AES/TKIP) RSN(PSK/TKIP,AES/TKIP)
+                             周                   -72  6,-1    Y  -- WPA(PSK/AES/AES) RSN(PSK/AES/AES)
+                            1308                   -68  11      Y  -- WPA(PSK/TKIP,AES/TKIP) RSN(PSK/TKIP,AES/TKIP)
+                   ChinaNet-m7pA                   -66  6       Y  -- WPA(PSK/TKIP,AES/TKIP)
+                           hello                   -31  11      Y  -- RSN(PSK/AES/AES)
+                           hello                   -43  161     Y  -- RSN(PSK/AES/AES)
+                           hello                   -36  44      Y  -- RSN(PSK/AES/AES)
+
+
+
+
+
+
+['SSID', 'BSSID', 'RSSI', 'CHANNEL', 'HT', 'CC', 'SECURITY', '(auth/unicast/group)',
+'CMCC-pWSi', '-92', '8', 'Y', '--', 'WPA(PSK/TKIP,AES/TKIP)', 'RSN(PSK/TKIP,AES/TKIP)',
+'3001', '-89', '1,+1', 'Y', '--', 'WPA(PSK/AES/AES)', 'RSN(PSK/AES/AES)',
+'1211', '-88', '11,-1', 'Y', '--', 'WPA(PSK/AES/AES)', 'RSN(PSK/AES/AES)',
+'k2', '-83', '6,-1', 'Y', '--', 'WPA(PSK/AES/AES)', 'RSN(PSK/AES/AES)',
